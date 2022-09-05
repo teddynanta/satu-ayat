@@ -1,0 +1,28 @@
+{
+    "film":[
+        {
+            "category": "Film",
+            "title": "Ngeri Ngeri Sedap",
+            "showtime": "21:10",
+            "price": 45000,
+            "location": "Lubuklinggau",
+            "image": "nns.jpg"
+        },
+        {
+            "category": "Film",
+            "title": "Jurrasic World Dominion",
+            "showtime": "21:20 and 20:35",
+            "price": 45000,
+            "location": "Lubuklinggau",
+            "image": "jwd.jpg"
+        },
+        {
+            "category": "Film",
+            "title": "My Sassy Girl",
+            "showtime": "21:00",
+            "price": 45000,
+            "location": "Lubuklinggau",
+            "image": "msg.jpg"
+        }
+    ]
+}
